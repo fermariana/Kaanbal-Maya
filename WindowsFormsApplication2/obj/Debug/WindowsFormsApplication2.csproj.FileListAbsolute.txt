@@ -1,0 +1,229 @@
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Maro\Documents\Visual Studio 2012\Projects\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo.resources
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo1.resources
+C:\Users\Maro\Pictures\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo2.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo1.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo2.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.consonantes.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores1.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores2.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.numeros.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales1.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales2.resources
+C:\Users\Fernanda vc\Documents\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales3.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales2.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales3.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores2.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.consonantes.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo2.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.numeros.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.puntos.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menu2.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.interrogativa.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.interrogativas.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto2.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto3.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto4.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto5.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.fruta3.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.fruta4.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas2.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia2.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionanimales.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacioncolores.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionfamilia.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionfrutas.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionpreguntas.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionpuntos.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacion.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frases.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frases1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.diccionario1.resources
+C:\Users\Fernanda vc\Desktop\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.diccionario2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto3.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto4.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto5.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales3.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.consonantes.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.diccionario1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.diccionario2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacion.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionanimales.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacioncolores.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionfamilia.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionfrutas.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionpreguntas.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionpuntos.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frases.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frases1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.fruta3.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.fruta4.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.interrogativa.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.interrogativas.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menu2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.numeros.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.puntos.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pronombres.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pronombres1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pronombres2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.saludos.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.saludos1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.saludos2.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.prendas.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.prendas1.resources
+C:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.prendas2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto3.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto4.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.alfabeto5.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.animales3.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.colores2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.consonantes.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.cuerpo2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.diccionario1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.diccionario2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacion.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionanimales.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacioncolores.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionfamilia.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionfrutas.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionpreguntas.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.evaluacionpuntos.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.familia2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frases.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frases1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.fruta3.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.fruta4.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frutas2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.interrogativa.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.interrogativas.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.menu2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.numeros.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.prendas.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.prendas1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.prendas2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pronombres.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pronombres1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pronombres2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.puntos.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.saludos.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.saludos1.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.saludos2.resources
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Users\Fernanda vc\Downloads\Kaanbal Maya\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

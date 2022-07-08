@@ -1,0 +1,1626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{98F8B857-5D37-4CD1-8D67-714677A03CE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication2</RootNamespace>
+    <AssemblyName>WindowsFormsApplication2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="alfabeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alfabeto.Designer.cs">
+      <DependentUpon>alfabeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alfabeto1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alfabeto1.Designer.cs">
+      <DependentUpon>alfabeto1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alfabeto2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alfabeto2.Designer.cs">
+      <DependentUpon>alfabeto2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alfabeto3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alfabeto3.Designer.cs">
+      <DependentUpon>alfabeto3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alfabeto4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alfabeto4.Designer.cs">
+      <DependentUpon>alfabeto4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alfabeto5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alfabeto5.Designer.cs">
+      <DependentUpon>alfabeto5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="animales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="animales.Designer.cs">
+      <DependentUpon>animales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="animales1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="animales1.Designer.cs">
+      <DependentUpon>animales1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="animales2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="animales2.Designer.cs">
+      <DependentUpon>animales2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="animales3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="animales3.Designer.cs">
+      <DependentUpon>animales3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="colores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="colores.Designer.cs">
+      <DependentUpon>colores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="colores1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="colores1.Designer.cs">
+      <DependentUpon>colores1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="colores2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="colores2.Designer.cs">
+      <DependentUpon>colores2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consonantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consonantes.Designer.cs">
+      <DependentUpon>consonantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cuerpo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cuerpo.Designer.cs">
+      <DependentUpon>cuerpo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cuerpo1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cuerpo1.Designer.cs">
+      <DependentUpon>cuerpo1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cuerpo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cuerpo2.Designer.cs">
+      <DependentUpon>cuerpo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diccionario1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diccionario1.Designer.cs">
+      <DependentUpon>diccionario1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diccionario2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diccionario2.Designer.cs">
+      <DependentUpon>diccionario2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evaluacion.Designer.cs">
+      <DependentUpon>evaluacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evaluacionanimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evaluacionanimales.Designer.cs">
+      <DependentUpon>evaluacionanimales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evaluacioncolores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evaluacioncolores.Designer.cs">
+      <DependentUpon>evaluacioncolores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evaluacionfamilia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evaluacionfamilia.Designer.cs">
+      <DependentUpon>evaluacionfamilia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evaluacionfrutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evaluacionfrutas.Designer.cs">
+      <DependentUpon>evaluacionfrutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evaluacionpreguntas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evaluacionpreguntas.Designer.cs">
+      <DependentUpon>evaluacionpreguntas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evaluacionpuntos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evaluacionpuntos.Designer.cs">
+      <DependentUpon>evaluacionpuntos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="familia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="familia.Designer.cs">
+      <DependentUpon>familia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="familia1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="familia1.Designer.cs">
+      <DependentUpon>familia1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="familia2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="familia2.Designer.cs">
+      <DependentUpon>familia2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frases.Designer.cs">
+      <DependentUpon>frases.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frases1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frases1.Designer.cs">
+      <DependentUpon>frases1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fruta3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fruta3.Designer.cs">
+      <DependentUpon>fruta3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fruta4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fruta4.Designer.cs">
+      <DependentUpon>fruta4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frutas.Designer.cs">
+      <DependentUpon>frutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frutas1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frutas1.Designer.cs">
+      <DependentUpon>frutas1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frutas2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frutas2.Designer.cs">
+      <DependentUpon>frutas2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interrogativa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="interrogativa.Designer.cs">
+      <DependentUpon>interrogativa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interrogativas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="interrogativas.Designer.cs">
+      <DependentUpon>interrogativas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu2.Designer.cs">
+      <DependentUpon>menu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="numeros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="numeros.Designer.cs">
+      <DependentUpon>numeros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prendas.Designer.cs">
+      <DependentUpon>prendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prendas1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prendas1.Designer.cs">
+      <DependentUpon>prendas1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="prendas2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prendas2.Designer.cs">
+      <DependentUpon>prendas2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="pronombres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pronombres.Designer.cs">
+      <DependentUpon>pronombres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pronombres1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pronombres1.Designer.cs">
+      <DependentUpon>pronombres1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pronombres2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pronombres2.Designer.cs">
+      <DependentUpon>pronombres2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="puntos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="puntos.Designer.cs">
+      <DependentUpon>puntos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saludos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saludos.Designer.cs">
+      <DependentUpon>saludos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saludos1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saludos1.Designer.cs">
+      <DependentUpon>saludos1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saludos2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saludos2.Designer.cs">
+      <DependentUpon>saludos2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="alfabeto.resx">
+      <DependentUpon>alfabeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alfabeto1.resx">
+      <DependentUpon>alfabeto1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alfabeto2.resx">
+      <DependentUpon>alfabeto2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alfabeto3.resx">
+      <DependentUpon>alfabeto3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alfabeto4.resx">
+      <DependentUpon>alfabeto4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alfabeto5.resx">
+      <DependentUpon>alfabeto5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="animales.resx">
+      <DependentUpon>animales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="animales1.resx">
+      <DependentUpon>animales1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="animales2.resx">
+      <DependentUpon>animales2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="animales3.resx">
+      <DependentUpon>animales3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="colores.resx">
+      <DependentUpon>colores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="colores1.resx">
+      <DependentUpon>colores1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="colores2.resx">
+      <DependentUpon>colores2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consonantes.resx">
+      <DependentUpon>consonantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cuerpo.resx">
+      <DependentUpon>cuerpo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cuerpo1.resx">
+      <DependentUpon>cuerpo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cuerpo2.resx">
+      <DependentUpon>cuerpo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diccionario1.resx">
+      <DependentUpon>diccionario1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diccionario2.resx">
+      <DependentUpon>diccionario2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evaluacion.resx">
+      <DependentUpon>evaluacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evaluacionanimales.resx">
+      <DependentUpon>evaluacionanimales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evaluacioncolores.resx">
+      <DependentUpon>evaluacioncolores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evaluacionfamilia.resx">
+      <DependentUpon>evaluacionfamilia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evaluacionfrutas.resx">
+      <DependentUpon>evaluacionfrutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evaluacionpreguntas.resx">
+      <DependentUpon>evaluacionpreguntas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evaluacionpuntos.resx">
+      <DependentUpon>evaluacionpuntos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="familia.resx">
+      <DependentUpon>familia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="familia1.resx">
+      <DependentUpon>familia1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="familia2.resx">
+      <DependentUpon>familia2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frases.resx">
+      <DependentUpon>frases.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frases1.resx">
+      <DependentUpon>frases1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fruta3.resx">
+      <DependentUpon>fruta3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fruta4.resx">
+      <DependentUpon>fruta4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frutas.resx">
+      <DependentUpon>frutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frutas1.resx">
+      <DependentUpon>frutas1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frutas2.resx">
+      <DependentUpon>frutas2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="interrogativa.resx">
+      <DependentUpon>interrogativa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="interrogativas.resx">
+      <DependentUpon>interrogativas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu2.resx">
+      <DependentUpon>menu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="numeros.resx">
+      <DependentUpon>numeros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prendas.resx">
+      <DependentUpon>prendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prendas1.resx">
+      <DependentUpon>prendas1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prendas2.resx">
+      <DependentUpon>prendas2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pronombres.resx">
+      <DependentUpon>pronombres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pronombres1.resx">
+      <DependentUpon>pronombres1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pronombres2.resx">
+      <DependentUpon>pronombres2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="puntos.resx">
+      <DependentUpon>puntos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saludos.resx">
+      <DependentUpon>saludos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saludos1.resx">
+      <DependentUpon>saludos1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saludos2.resx">
+      <DependentUpon>saludos2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext249964755109364.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2000px-Tlahtolli.svg_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1-1709D.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext250423128712050.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\regresar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\partes del cuerpo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuerpo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabeza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabeza1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabeza2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabeza11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabello.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuerpo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linea1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabello1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seguir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boca1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boca2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cabeza3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\margen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\margen.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\margen2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consonantes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evaluacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pregunta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pregunta11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pregunta12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pregunta2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pregunta3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pregunta4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\margencolores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\margen3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colores1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\audio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\margen colorida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blanco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rosado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\morado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\negro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amarillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\volver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\segir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anaranjado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seguir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext254481985282422.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext254988785662443.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext254988961196636.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gato.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gallina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guajolote.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caballo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrego.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jaguar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\venado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jabali.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ardilla.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ardilla-chip-83728.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\conejo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowbunny_hop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gifs-animados-conejos.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext255097255110308.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tema.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\simbolohabla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The_Heavy_Azor_1920x1200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colorido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo agua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botoncuerpo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botonanimales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botoncolor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puntos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\norte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\norte1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\este.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oriente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numeros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puntos 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interrogar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\que.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\por que.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuanto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\como.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cual.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuanto1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuando.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\como1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuantos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuantos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuantos2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interrogtivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consonantes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ch1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vocales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ts1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ts%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\w1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vocales1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\áa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a%27a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ée.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e%27e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\íi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i%27i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\o1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\óo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\o%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\o%27o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\úu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u%27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u%27u.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfabeto1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfabeto2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uva.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ciruela.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mamey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piña.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aguacate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\platano.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chirimoya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guayaba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\higo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jicama.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lima.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mamey1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mango.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manzana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naranja.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\papaya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\piña1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pitahaya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\platano1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uva1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zapote.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maiz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutas3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\familia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NIETOS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nieto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hija.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hijo de mujer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hijo de hombre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mujer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\madre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abuela.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\esposa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hpmbre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abuelo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\esposo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hogar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfabeto3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfabeto4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numeros1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colores2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\familia1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuerpo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\formas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutas0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puntos3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aanimales.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aanimales1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aanimales3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aanimales4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\familiaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\familiaa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\familiaa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\familiaa3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preguntas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preguntas1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preguntas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preguntas3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutass1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutass2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutass3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puntoss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puntoss1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puntoss2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puntoss3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evaluaicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evaluaicon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfabetoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numeross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coloress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animaless.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuerpoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\familiaa11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fromas interrogativass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutass11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\puntosoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evaluacioon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialoogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diaalogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frases.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialoloogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vamos aprender maya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diialogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\como te llasmam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mi nombre es.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\donde vas mañana.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yo voy a ir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\que vas hacer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voy a pasear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comeer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voy a comer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mañana voy a jugar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estoy muy feliz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diccionarioo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diicionario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273722700585927.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1Sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2Sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3Sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pronombres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273728089075950.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buendia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273728776525719.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273728965695849.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729162085250.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729471912220.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729578967396.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729662946923.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729282288885.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729306498135.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext2737292822888851.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext2737293064981351.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729322751747.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729338870894.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273730481010728.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273730519270834.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273730563861103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273730602049438.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729356775188.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273729370990787.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273731194827580.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273731227679600.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saludos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saludos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pronombres1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ropa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pronombres11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %289%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %2810%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %2812%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %2813%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %2814%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %2815%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RenderedImage %2816%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext273837781764211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pantalones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camisa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vestido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\traje.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abrigo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calzon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cinturon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sombrero-97.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zapatos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anillo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arete.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
